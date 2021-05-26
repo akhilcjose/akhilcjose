@@ -104,4 +104,3 @@ I’m a aspiring full-stack developer and a casual gamer.
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
