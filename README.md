@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I’m a aspiring full-stack developer and a casual gamer.   
+I’m a aspiring to become a full-stack developer and a casual gamer.   
   
 
 <br/>  
