@@ -1,29 +1,27 @@
-# Hey, I'm Akhil 👋
+# Hi, I'm Akhil
 
-I write code, poke at data, and ask models *why* they said what they said. Currently doing my MSc in Bamberg, Germany.
+I'm a developer and an MSc student in Bamberg, Germany.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-c-jose-701014195)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/includeacj)
 
-## Things dev Akhil gets excited about
+## What I'm interested in
 
-- 📊 **Social media analytics.** Scraping, collecting and making sense of what people post. Give me a pile of tweets or TikTok comments and I'll want to know what's going on in there.
-- 🧵 **Thematic analysis.** Finding the themes and sentiment hiding in messy text, and checking whether different models actually agree on them.
-- 💬 **NLP projects.** From spotting cyberbullying in comments to RAG systems that answer questions from research papers.
-- 🔍 **Explainable AI, especially counterfactual generation.** "What's the smallest change that would flip this prediction?" is my favourite question to ask a model.
+- **Social media analytics:** collecting and analysing data from platforms like X, YouTube and TikTok.
+- **Thematic analysis:** finding themes and sentiment in text, and comparing how well different models agree.
+- **NLP:** text classification, cyberbullying detection and retrieval-augmented generation.
+- **Explainable AI:** especially counterfactual generation techniques, which show how an input would have to change to get a different prediction.
 
-## Stuff I've built
+## Projects
 
-- [**RAG for context-aware QA**](https://github.com/akhilcjose/NLProc-Proj-M-SS25): ask questions, get answers grounded in academic papers.
-- **Bullcy**: a browser extension that catches cyberbullying on social media using BERT + BiLSTM. It even turned into a [paper](https://thegrenze.com/pages/servej.php?fn=49_1.pdf&name=Cyberbullying%20Detection%20and%20Handling:%20A%20DeepLearning%20Approach&id=1273&association=GRENZE&journal=GIJET&year=2022&volume=8&issue=2).
-- [**Webster**](https://github.com/cd-hack/webster-django): a hackathon app for people selling stuff on social media.
+- [**RAG for context-aware QA**](https://github.com/akhilcjose/NLProc-Proj-M-SS25): answers questions using content from academic papers.
+- **Bullcy:** a browser extension that detects cyberbullying on social media with a BERT + BiLSTM model. [Paper](https://thegrenze.com/pages/servej.php?fn=49_1.pdf&name=Cyberbullying%20Detection%20and%20Handling:%20A%20DeepLearning%20Approach&id=1273&association=GRENZE&journal=GIJET&year=2022&volume=8&issue=2).
+- [**Webster**](https://github.com/cd-hack/webster-django): a hackathon app for private sellers on social media.
 
-## Usually found using
+## Tools I use
 
-Python · FastAPI · Celery · PostgreSQL · Redis · Docker · Flutter · React · Vue · TensorFlow
+Python, FastAPI, Celery, PostgreSQL, Redis, Docker, Flutter, React, Vue, TensorFlow
 
-## Off the keyboard
+## Outside of code
 
-- 🥾 Trekking
-- 🏓 Table tennis
-- 🎮 Video games. Current obsession: **Stardew Valley** 🌱
+Trekking, table tennis and video games. My current favourite is Stardew Valley.
