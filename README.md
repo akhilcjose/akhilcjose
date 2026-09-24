@@ -3,7 +3,7 @@
 Software engineer and MSc student in **International Software Systems Science** at the University of Bamberg, Germany. I build backend systems and data pipelines, and I'm interested in NLP, explainable AI and social media analysis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-c-jose-701014195)
-[![Email](https://img.shields.io/badge/Email-akhiljose1999%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white)](mailto:akhiljose1999@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/includeacj)
 
 ## Currently
 
