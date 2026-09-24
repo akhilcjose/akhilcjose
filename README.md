@@ -1,37 +1,29 @@
-# Hi, I'm Akhil C Jose
+# Hey, I'm Akhil 👋
 
-Software engineer and MSc student in **International Software Systems Science** at the University of Bamberg, Germany. I build backend systems and data pipelines, and I'm interested in NLP, explainable AI and social media analysis.
+I write code, poke at data, and ask models *why* they said what they said. Currently doing my MSc in Bamberg, Germany.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-c-jose-701014195)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/includeacj)
 
-## Currently
+## Things dev Akhil gets excited about
 
-- **Student Research Assistant** at the [Chair of AI-Engineering in Companies](https://www.uni-bamberg.de/en/aic/), University of Bamberg. I build an async data collection backend (FastAPI, Celery, Redis, PostgreSQL) that pulls 100k+ records from the YouTube and TikTok APIs and shows live job progress.
-- **Student Developer, Cylence Project**: a browser extension that detects and reports hate speech, plus data flows and monitors on Virtimo's IGUASU and BPC platforms.
-- **Studying**: MSc International Software Systems Science, University of Bamberg (2024 – present)
+- 📊 **Social media analytics.** Scraping, collecting and making sense of what people post. Give me a pile of tweets or TikTok comments and I'll want to know what's going on in there.
+- 🧵 **Thematic analysis.** Finding the themes and sentiment hiding in messy text, and checking whether different models actually agree on them.
+- 💬 **NLP projects.** From spotting cyberbullying in comments to RAG systems that answer questions from research papers.
+- 🔍 **Explainable AI, especially counterfactual generation.** "What's the smallest change that would flip this prediction?" is my favourite question to ask a model.
 
-**Previously:** Software Engineer at [Dexlock](https://dexlock.com/), Kochi (2022 – 2023). I shipped an AI-driven biographer app in Flutter to the App Store and Google Play and worked on a Vue.js e-commerce platform.
+## Stuff I've built
 
-## Selected work
+- [**RAG for context-aware QA**](https://github.com/akhilcjose/NLProc-Proj-M-SS25): ask questions, get answers grounded in academic papers.
+- **Bullcy**: a browser extension that catches cyberbullying on social media using BERT + BiLSTM. It even turned into a [paper](https://thegrenze.com/pages/servej.php?fn=49_1.pdf&name=Cyberbullying%20Detection%20and%20Handling:%20A%20DeepLearning%20Approach&id=1273&association=GRENZE&journal=GIJET&year=2022&volume=8&issue=2).
+- [**Webster**](https://github.com/cd-hack/webster-django): a hackathon app for people selling stuff on social media.
 
-| Project | What it is |
-| --- | --- |
-| [**RAG for Context-Aware QA**](https://github.com/akhilcjose/NLProc-Proj-M-SS25) | A lightweight retrieval-augmented generation system that answers questions from academic research papers. MSc project. |
-| **Bullcy** | Cyberbullying detection and handling for social media, delivered as a browser extension backed by a BERT + BiLSTM model. B.Tech project. |
-| [**Cyberbullying Detection and Handling: A Deep Learning Approach**](https://thegrenze.com/pages/servej.php?fn=49_1.pdf&name=Cyberbullying%20Detection%20and%20Handling:%20A%20DeepLearning%20Approach&id=1273&association=GRENZE&journal=GIJET&year=2022&volume=8&issue=2) | The paper based on Bullcy, published by GRENZE Scientific Society (2022). |
-| [**Webster**](https://github.com/cd-hack/webster-django) | A service app for private sellers on social media, built at the BitFlip Hackathon, College of Engineering Trivandrum. |
+## Usually found using
 
-## Tech
-
-**Languages:** Python · Dart · JavaScript · C++ · Java
-**Backend:** FastAPI · Django · Celery · PostgreSQL · Redis · Keycloak
-**Frontend:** Flutter · React · Vue
-**ML:** TensorFlow · NumPy
-**DevOps:** Docker · nginx · AWS · Azure · Git
+Python · FastAPI · Celery · PostgreSQL · Redis · Docker · Flutter · React · Vue · TensorFlow
 
 ## Off the keyboard
 
 - 🥾 Trekking
 - 🏓 Table tennis
-- 🎮 Video games. Current favourite: **Stardew Valley** 🌱
+- 🎮 Video games. Current obsession: **Stardew Valley** 🌱
