@@ -20,7 +20,11 @@ I'm a developer and an MSc student in Bamberg, Germany.
 
 ## Tools I use
 
-Python, FastAPI, Celery, PostgreSQL, Redis, Docker, Flutter, React, Vue, TensorFlow
+- **Languages:** Python, JavaScript, Dart, Java, C++
+- **Backend:** FastAPI, Django, gRPC, Celery, RabbitMQ, Redis, PostgreSQL, Keycloak
+- **ML / NLP:** TensorFlow, NumPy, FAISS
+- **Frontend:** Flutter, React, Vue
+- **DevOps:** Docker, nginx, AWS, Azure, Git
 
 ## Outside of code
 
