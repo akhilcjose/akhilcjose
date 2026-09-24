@@ -1,106 +1,37 @@
-## Hey 👋, I'm Akhil C Jose  
-  
+# Hi, I'm Akhil C Jose
 
-<a href="https://github.com/akhilcjose" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/akhil-c-jose-701014195" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/includeacj" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-  
+Software engineer and MSc student in **International Software Systems Science** at the University of Bamberg, Germany. I build backend systems and data pipelines, and I'm interested in NLP, explainable AI and social media analysis.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-c-jose-701014195)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/includeacj)
 
+## Currently
 
-### Glad to see you here!  
-I’m an aspiring full-stack developer and a casual gamer.   
-  
+- **Student Research Assistant** at the [Chair of AI-Engineering in Companies](https://www.uni-bamberg.de/en/aic/), University of Bamberg. I build an async data collection backend (FastAPI, Celery, Redis, PostgreSQL) that pulls 100k+ records from the YouTube and TikTok APIs and shows live job progress.
+- **Student Developer, Cylence Project**: a browser extension that detects and reports hate speech, plus data flows and monitors on Virtimo's IGUASU and BPC platforms.
+- **Studying**: MSc International Software Systems Science, University of Bamberg (2024 – present)
 
-<br/>  
+**Previously:** Software Engineer at [Dexlock](https://dexlock.com/), Kochi (2022 – 2023). I shipped an AI-driven biographer app in Flutter to the App Store and Google Play and worked on a Vue.js e-commerce platform.
 
+## Selected work
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+| Project | What it is |
+| --- | --- |
+| [**RAG for Context-Aware QA**](https://github.com/akhilcjose/NLProc-Proj-M-SS25) | A lightweight retrieval-augmented generation system that answers questions from academic research papers. MSc project. |
+| **Bullcy** | Cyberbullying detection and handling for social media, delivered as a browser extension backed by a BERT + BiLSTM model. B.Tech project. |
+| [**Cyberbullying Detection and Handling: A Deep Learning Approach**](https://thegrenze.com/pages/servej.php?fn=49_1.pdf&name=Cyberbullying%20Detection%20and%20Handling:%20A%20DeepLearning%20Approach&id=1273&association=GRENZE&journal=GIJET&year=2022&volume=8&issue=2) | The paper based on Bullcy, published by GRENZE Scientific Society (2022). |
+| [**Webster**](https://github.com/cd-hack/webster-django) | A service app for private sellers on social media, built at the BitFlip Hackathon, College of Engineering Trivandrum. |
 
-- 🔭 I’m currently working on https://github.com/akhilcjose/Javascript.git  
-  
+## Tech
 
-- 🌱 I’m currently learning react and flask  
-  
+**Languages:** Python · Dart · JavaScript · C++ · Java
+**Backend:** FastAPI · Django · Celery · PostgreSQL · Redis · Keycloak
+**Frontend:** Flutter · React · Vue
+**ML:** TensorFlow · NumPy
+**DevOps:** Docker · nginx · AWS · Azure · Git
 
-- ⚡ Fun fact: I am a night owl   
+## Off the keyboard
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" />  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akhilcjose&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilcjose&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=akhilcjose&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
+- 🥾 Trekking
+- 🏓 Table tennis
+- 🎮 Video games. Current favourite: **Stardew Valley** 🌱
